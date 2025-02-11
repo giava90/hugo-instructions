@@ -1,4 +1,4 @@
-baseURL = 'https://giava90.github.io/tutorial-website-hugo/'
+baseURL = 'https://giava90.github.io/hugo-instructions/'
 languageCode = 'en-us'
 title = 'Giacomo Vaccario'
 theme = 'simplebutnotsimpler'

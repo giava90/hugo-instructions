@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Instructions for Creating Your First Website on Giacomo Vaccario</title><link>https://giava90.github.io/hugo-instructions/</link><description>Recent content in Instructions for Creating Your First Website on Giacomo Vaccario</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://giava90.github.io/hugo-instructions/index.xml" rel="self" type="application/rss+xml"/><item><title>Instruction sent via email</title><link>https://giava90.github.io/hugo-instructions/preparation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://giava90.github.io/hugo-instructions/preparation/</guid><description>&lt;p>Dear Group,&lt;/p>
+&lt;p>A couple of technical information for the first workshop.
+The first workshop will be about learning GitHub and deploying a website.
+To speed up the process, I would like to you to do the following:&lt;/p>
+&lt;ul>
+&lt;li>Bring your laptop and charger.&lt;/li>
+&lt;li>Check that you know your admin passwords for installing software.&lt;/li>
+&lt;li>Install &lt;a href="https://git-scm.com/downloads">Git&lt;/a>:
+&lt;ul>
+&lt;li>If you have no preferences, accept all default options.&lt;/li>
+&lt;li>At the question about the default editor, I suggest choosing Visual Studio Code or something you normally use for programming.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Create a &lt;a href="https://github.com/">GitHub&lt;/a> account.
+&lt;ul>
+&lt;li>&lt;em>(Optional)&lt;/em> &lt;a href="https://education.github.com/discount_requests/application">Connect your GitHub account to Copilot&lt;/a> (this should be possible for students and teachers).&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Install &lt;a href="https://gohugo.io/installation/">Hugo&lt;/a> (the extended version):
+&lt;ul>
+&lt;li>For Windows, I have tested &lt;strong>winget&lt;/strong>.&lt;/li>
+&lt;li>For MacOS, I have tested &lt;strong>Homebrew&lt;/strong>.&lt;/li>
+&lt;li>For Linux, I have tested &lt;strong>snap&lt;/strong>.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Look at this &lt;a href="https://themes.gohugo.io/">gallery for themes&lt;/a> for your website.
+&lt;ul>
+&lt;li>I have tested &lt;a href="https://themes.gohugo.io/themes/hugo-xmin/">one theme&lt;/a> and created a &lt;a href="https://giava90.github.io/tutorial-website-hugo/">sample version of a personal page&lt;/a> (it took me about 20 minutes to set it up).&lt;/li>
+&lt;li>The &lt;a href="https://www.sg.ethz.ch/">website&lt;/a> of my previous group had a custom theme to replicate the ETH one.&lt;/li>
+&lt;li>This is a &lt;a href="https://shreyas3105.github.io/Website/">second sample Shreyas&lt;/a> has created (it required some CSS fixes).&lt;/li>
+&lt;li>I have now tested also &lt;a href="https://themes.gohugo.io/themes/hugoplate/">another theme&lt;/a> that looks very cool and complete. This how it &lt;a href="https://giava90.github.io/plate-example/">renders&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Read about markdown formatting.&lt;/li>
+&lt;li>Create two short texts to populate the website:
+&lt;ul>
+&lt;li>One describing who you are (or what your project is about).&lt;/li>
+&lt;li>One about what you care about in your spare time or anything else you&amp;rsquo;d like to add to your website.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Have three images in PNG or JPG format:
+&lt;ul>
+&lt;li>One horizontally long image to use as a banner for the website.&lt;/li>
+&lt;li>A profile picture.&lt;/li>
+&lt;li>A picture about your research or something you care about.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>If you any trouble in performing any of these tasks, you can google for solutions, ask chatGPT or let me know.&lt;/p></description></item></channel></rss>

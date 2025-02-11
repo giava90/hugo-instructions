@@ -1,7 +1,7 @@
 ---
 title: Instruction sent via email
 ---
-Dear EM group,
+Dear Group,
 
 A couple of technical information for the first workshop.
 The first workshop will be about learning GitHub and deploying a website.

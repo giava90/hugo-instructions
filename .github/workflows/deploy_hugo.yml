@@ -21,11 +21,11 @@ jobs:
     # Step 3: Build the site
     - name: Build the Hugo site
       run: hugo --minify 
-    # # Step 4: Debug GITHUB_TOKEN
-    # - name: Debug GITHUB_TOKEN
-    #   run: echo "Token is available"
-    #   env:
-    #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    # Step 4: Debug GITHUB_TOKEN
+    - name: Debug GITHUB_TOKEN
+      run: echo "Token is available"
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     # Step 5: Deploy to GitHub Pages
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
